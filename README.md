@@ -1,7 +1,7 @@
 # EVDataAnalysis
 
 ![Project Image](https://github.com/arghyacodes/EVDataAnalysis/blob/main/demo.png)
-![Demo](https://github.com/arghyacodes/EVDataAnalysis/blob/main/demo.gif)
+<!-- ![Demo](https://github.com/arghyacodes/EVDataAnalysis/blob/main/demo.gif) -->
 
 ---
 
@@ -25,7 +25,7 @@
 
 
 
-### Charts Requirement 
+## Charts Requirement 
 
 1.Total Vehicles by Model Year (From 2010 Onwards):
 -> Visualization: Line/ Area Chart
@@ -49,7 +49,7 @@
 
 
 
-### Technologies
+## Technologies
 
 - Tableau
 - Excel
