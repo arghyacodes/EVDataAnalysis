@@ -1,7 +1,7 @@
 # EVDataAnalysis
 
 ![Project Image](https://github.com/arghyacodes/EVDataAnalysis/blob/main/demo.png)
-[Live demo](https://github.com/arghyacodes/EVDataAnalysis/blob/main/demo.gif)
+![Demo](https://github.com/arghyacodes/EVDataAnalysis/blob/main/demo.gif)
 
 ---
 
