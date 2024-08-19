@@ -1,7 +1,7 @@
 # EVDataAnalysis
 
-![Project Image](https://github.com/arghyacodes/SortingVisualiser/blob/main/images/demo.gif)
-> [Live demo](https://arghyacodes.github.io/SortingVisualiser/)
+![Project Image](https://github.com/arghyacodes/EVDataAnalysis/blob/main/demo.png)
+[Live demo](https://github.com/arghyacodes/EVDataAnalysis/blob/main/demo.gif)
 
 ---
 
